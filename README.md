@@ -1,4 +1,4 @@
-# Sample_my_project
+# Sample_my_projects
 Description of projects
 
 stat analysis.ipynb: Используемые библиотеки и методы: Python, Pandas, Matplotlib, NumPy, SciPy, описательная статистика, проверка статистических гипотез.
