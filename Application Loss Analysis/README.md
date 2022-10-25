@@ -1,4 +1,4 @@
-# Analysis of computer game sales Project
+# Application Loss Analysis Project
 
 #### Цель: 
 - Определить причины убытков компании, выпустившей приложение Procrastinate Pro+, определить триггеры для роста бизнеса.
